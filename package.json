@@ -2,7 +2,7 @@
   "name": "serverrouter",
   "version": "1.0.0",
   "description": "Creating a server and a router using node js only",
-  "main": "index.js",
+  "main": "serverRouter.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
